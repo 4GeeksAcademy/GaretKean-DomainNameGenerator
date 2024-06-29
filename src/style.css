@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#generated-strings {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+body {
+  background-color: aqua;
+}
